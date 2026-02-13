@@ -23,7 +23,6 @@
 🎓 5th-year **Software Engineering Student (MIAGE)**  
 💻 Focused on **Full-Stack Development & Enterprise Systems (ERP / CRM)**  
 ☁️ Gaining hands-on experience in the **Salesforce ecosystem** (Trailhead, Flows, CRM fundamentals)  
-⚡ Actively seeking a **PFE Internship**  
 🌱 Highly motivated, disciplined, and eager to grow as a **developer & future consultant**  
 🤝 Comfortable in **team-based & agile environments**
 
@@ -75,13 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
 </p>
 
-
-
-
-
-## 🎯 Professional Goal
-> 🎓 **Secure a PFE Internship** in **Full-Stack Development or Salesforce / CRM Consulting**,  
-> contribute to enterprise-grade solutions, and evolve into a **skilled software engineer & consultant**.
 
 ---
 
